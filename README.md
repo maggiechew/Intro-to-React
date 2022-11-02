@@ -7,7 +7,7 @@ For a link to the original tutorial I followed: [link](https://reactjs.org/tutor
 Instructions
 -----------
 
-1. Be sure to have the latest Node versions installed on your computer.
+1. Be sure to have the latest Node.js version installed on your computer.
 2. Clone this git repository into a folder on your computer.
 3. Navigate to Intro-to-React/my-app
 4. Install all dependencies (npm i)
